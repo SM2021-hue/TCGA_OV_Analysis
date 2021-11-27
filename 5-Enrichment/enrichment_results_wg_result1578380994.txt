@@ -1,0 +1,11 @@
+geneSet	description	link	size	overlap	expect	enrichmentRatio	pValue	FDR	overlapId	userId
+GO:0055086	nucleobase-containing small molecule metabolic process	http://amigo.geneontology.org/amigo/term/GO:0055086	732	6	1.0102004080163207	5.939415538132573	3.735861272511354e-4	1	637;10606;55276;55902;56886;58478	ACSS2;BID;ENOPH1;PAICS;PGM2;UGGT1
+GO:0097402	neuroblast migration	http://amigo.geneontology.org/amigo/term/GO:0097402	3	1	0.004140165606624265	241.53623188405797	0.004134702337371565	1	23047	PDS5B
+GO:0006083	acetate metabolic process	http://amigo.geneontology.org/amigo/term/GO:0006083	3	1	0.004140165606624265	241.53623188405797	0.004134702337371565	1	55902	ACSS2
+GO:0019284	L-methionine salvage from S-adenosylmethionine	http://amigo.geneontology.org/amigo/term/GO:0019284	3	1	0.004140165606624265	241.53623188405797	0.004134702337371565	1	58478	ENOPH1
+GO:1901135	carbohydrate derivative metabolic process	http://amigo.geneontology.org/amigo/term/GO:1901135	1175	6	1.6215648625945038	3.7001295097132285	0.004318827697667116	1	637;10606;55276;55902;56886;58478	ACSS2;BID;ENOPH1;PAICS;PGM2;UGGT1
+GO:0006081	cellular aldehyde metabolic process	http://amigo.geneontology.org/amigo/term/GO:0006081	74	2	0.10212408496339855	19.584018801410103	0.004632483983698088	1	2739;55276	GLO1;PGM2
+GO:0019693	ribose phosphate metabolic process	http://amigo.geneontology.org/amigo/term/GO:0019693	519	4	0.7162486499459979	5.5846527603250395	0.005140611931668371	1	637;10606;55276;55902	ACSS2;BID;PAICS;PGM2
+GO:0030043	actin filament fragmentation	http://amigo.geneontology.org/amigo/term/GO:0030043	4	1	0.005520220808832354	181.15217391304347	0.005509298859381007	1	9948	WDR1
+GO:0033353	S-adenosylmethionine cycle	http://amigo.geneontology.org/amigo/term/GO:0033353	4	1	0.005520220808832354	181.15217391304347	0.005509298859381007	1	58478	ENOPH1
+GO:0021764	amygdala development	http://amigo.geneontology.org/amigo/term/GO:0021764	4	1	0.005520220808832354	181.15217391304347	0.005509298859381007	1	55236	UBA6

@@ -1,0 +1,25 @@
+userId	geneSymbol	geneName	entrezgene	gLink
+ACSS2	ACSS2	acyl-CoA synthetase short chain family member 2	55902	https://www.ncbi.nlm.nih.gov/gene/?term=55902
+BID	BID	BH3 interacting domain death agonist	637	https://www.ncbi.nlm.nih.gov/gene/?term=637
+CHD4	CHD4	chromodomain helicase DNA binding protein 4	1108	https://www.ncbi.nlm.nih.gov/gene/?term=1108
+CORO2A	CORO2A	coronin 2A	7464	https://www.ncbi.nlm.nih.gov/gene/?term=7464
+ENOPH1	ENOPH1	enolase-phosphatase 1	58478	https://www.ncbi.nlm.nih.gov/gene/?term=58478
+FNDC3A	FNDC3A	fibronectin type III domain containing 3A	22862	https://www.ncbi.nlm.nih.gov/gene/?term=22862
+GLO1	GLO1	glyoxalase I	2739	https://www.ncbi.nlm.nih.gov/gene/?term=2739
+HEXIM1	HEXIM1	HEXIM P-TEFb complex subunit 1	10614	https://www.ncbi.nlm.nih.gov/gene/?term=10614
+LAP3	LAP3	leucine aminopeptidase 3	51056	https://www.ncbi.nlm.nih.gov/gene/?term=51056
+OXR1	OXR1	oxidation resistance 1	55074	https://www.ncbi.nlm.nih.gov/gene/?term=55074
+PAICS	PAICS	phosphoribosylaminoimidazole carboxylase and phosphoribosylaminoimidazolesuccinocarboxamide synthase	10606	https://www.ncbi.nlm.nih.gov/gene/?term=10606
+PDS5B	PDS5B	PDS5 cohesin associated factor B	23047	https://www.ncbi.nlm.nih.gov/gene/?term=23047
+PGM2	PGM2	phosphoglucomutase 2	55276	https://www.ncbi.nlm.nih.gov/gene/?term=55276
+RAB21	RAB21	RAB21, member RAS oncogene family	23011	https://www.ncbi.nlm.nih.gov/gene/?term=23011
+RAP1GDS1	RAP1GDS1	Rap1 GTPase-GDP dissociation stimulator 1	5910	https://www.ncbi.nlm.nih.gov/gene/?term=5910
+RBM47	RBM47	RNA binding motif protein 47	54502	https://www.ncbi.nlm.nih.gov/gene/?term=54502
+SART3	SART3	spliceosome associated factor 3, U4/U6 recycling protein	9733	https://www.ncbi.nlm.nih.gov/gene/?term=9733
+SYPL1	SYPL1	synaptophysin like 1	6856	https://www.ncbi.nlm.nih.gov/gene/?term=6856
+THBS2	THBS2	thrombospondin 2	7058	https://www.ncbi.nlm.nih.gov/gene/?term=7058
+TSN	TSN	translin	7247	https://www.ncbi.nlm.nih.gov/gene/?term=7247
+UBA6	UBA6	ubiquitin like modifier activating enzyme 6	55236	https://www.ncbi.nlm.nih.gov/gene/?term=55236
+UCHL5	UCHL5	ubiquitin C-terminal hydrolase L5	51377	https://www.ncbi.nlm.nih.gov/gene/?term=51377
+UGGT1	UGGT1	UDP-glucose glycoprotein glucosyltransferase 1	56886	https://www.ncbi.nlm.nih.gov/gene/?term=56886
+WDR1	WDR1	WD repeat domain 1	9948	https://www.ncbi.nlm.nih.gov/gene/?term=9948
