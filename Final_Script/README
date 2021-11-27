@@ -1,0 +1,23 @@
+
+Step1 :-
+in Image_Processing_and_Spliting.ipynb
+
+
+	# path of that folder which contain all Folder(which contain .svs files)
+
+	input_fol_path="/media/arraygen/TOSHIBA EXT/satyam/SUNEETA_MAM_INPUT_DATA/B_Suneeta_Data"
+
+	# path of that folder where o/p will generate
+
+	out_path="/home/arraygen/Desktop/WSI_Processing/B_Splitted_Images"
+
+
+
+Step2 :-
+
+in Cell_feature_Extraction_FINAL.ipynb
+
+     ### give path of input folder which contain all Folder(which contain splitted images) for each svs file
+
+	path_of_input_folder="/home/arraygen/Desktop/WSI_Processing/B_Splitted_Images"
+

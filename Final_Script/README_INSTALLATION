@@ -1,0 +1,16 @@
+
+# Run The Following Linux Commands
+
+$ sudo pip3 install large_image
+$ sudo pip3 install pandas
+$ sudo pip3 install matplotlib
+$ sudo pip3 install skimage
+
+
+$ git clone https://github.com/DigitalSlideArchive/HistomicsTK.git
+$ cd HistomicsTK
+
+$ sudo pip3 install --no-cache-dir -r requirements_dev.txt
+$ sudo pip3 install -e .
+
+

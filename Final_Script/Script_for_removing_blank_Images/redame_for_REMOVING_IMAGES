@@ -1,0 +1,10 @@
+
+Script for removing Blank Images 
+
+
+run size_3.py pgm
+Change Path in pgm
+
+and Give no 
+for ex 10 
+so it'll remove small 10 images
